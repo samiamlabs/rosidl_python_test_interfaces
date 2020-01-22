@@ -1,0 +1,8 @@
+# goal definition
+float64 global
+---
+# result definition
+string not_reserved
+---
+# feedback
+float32 not_reserved
